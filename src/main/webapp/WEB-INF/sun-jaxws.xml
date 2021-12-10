@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="com.mycompany.webservicesoap.service.EmpleadoWebService" name="EmpleadoWebService" url-pattern="/EmpleadoWebService"/>
+  <endpoint implementation="com.mycompany.webservicesoap.service.DepartamentoWebService" name="DepartamentoWebService" url-pattern="/DepartamentoWebService"/>
+</endpoints>

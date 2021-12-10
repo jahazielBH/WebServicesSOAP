@@ -1,0 +1,8 @@
+com\mycompany\webservicesoap\entity\Departamento.class
+com\mycompany\webservicesoap\service\DepartamentoWebService.class
+com\mycompany\webservicesoap\dao\DepartamentoDAO.class
+com\mycompany\webservicesoap\dao\EmpleadoDAO.class
+com\mycompany\webservicesoap\dao\IDAO.class
+com\mycompany\webservicesoap\service\EmpleadoWebService.class
+com\mycompany\webservicesoap\util\Conexion.class
+com\mycompany\webservicesoap\entity\Empleado.class
